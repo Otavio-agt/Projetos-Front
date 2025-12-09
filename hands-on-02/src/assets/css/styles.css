@@ -1,5 +1,5 @@
 body {
-    font-family: "Catamaran", sans-serif;
+    font-family: 'Catamaran', sans-serif;
 }
 
 h1 {
@@ -23,14 +23,16 @@ img {
     width: 60%;
     filter: opacity(50%);
 }
+
 img:hover {
     filter: opacity(100%);
 }
 
-h3{
+h3 {
     font-size: 25px;
     color: rgb(31, 130, 230);
 }
+
 ol, ul {
     list-style: none;
     font-weight: 600;
@@ -40,7 +42,7 @@ a {
     text-decoration: none;
     font-weight: 700;
     font-size: 18px;
-    color: #dc143c;
+    color: #dc143c;    
 }
 
 a:hover {
